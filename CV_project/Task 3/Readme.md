@@ -1,5 +1,3 @@
-Certainly! Here is your README file formatted for better readability:
-
 ```markdown
 # Setup Instructions for Training Process
 
