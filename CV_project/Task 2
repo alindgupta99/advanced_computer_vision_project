@@ -1,0 +1,8 @@
+Task 2: Generating Images from Sketch Descriptions with Stable Diffusion
+● Objective: Utilize Stable Diffusion to generate realistic images based on textual
+descriptions obtained from Task 1.
+● Introduce Stable Diffusion and discuss its capabilities and limitations.
+● Use the captions generated in Task 1 as inputs to Stable Diffusion to synthesize
+realistic images that match the sketch descriptions.
+● Assess the quality and relevance of the generated images to the original
+sketches and descriptions.
