@@ -52,3 +52,5 @@ Following these steps will set up your machine for the training process.
 ```
 
 This structure should make the instructions clear and easy to follow.
+
+After this, please run the Python Notebook and run cells inside.
