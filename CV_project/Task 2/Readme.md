@@ -12,3 +12,6 @@ realistic images that match the sketch descriptions.
 ● Assess the quality and relevance of the generated images to the original
 sketches and descriptions.
 
+
+To run the task 2, run the python notebook given above and run the compare_images.py for calculating the SSIM similarity score for two images.
+In the python file, we have the results for the controlnet guidance as well
