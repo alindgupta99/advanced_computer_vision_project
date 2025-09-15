@@ -1,4 +1,3 @@
-```markdown
 # Setup Instructions for Training Process
 
 To start with the training process, we did the below setup in our machine. Please follow these steps:
